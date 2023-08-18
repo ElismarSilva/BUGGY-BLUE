@@ -1,3 +1,4 @@
+
 # Projeto do Buggy App Inventor
 
 Este repositório contém o arquivo .aia do projeto do Buggy criado no App Inventor. O arquivo .aia contém todas as informações e elementos necessários para recriar o aplicativo Buggy.
