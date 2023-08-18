@@ -7,7 +7,7 @@ Este repositório contém o arquivo .aia do projeto do Buggy criado no App Inven
 
 Você pode baixar o arquivo .aia diretamente clicando no link abaixo:
 
-- [Baixar Arquivo .aia](Buggy2.aia)
+- [Baixar Arquivo .aia](Buggy2.aia/PK)
 
 ## Como Usar o Arquivo .aia
 
