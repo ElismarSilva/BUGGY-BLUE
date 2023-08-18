@@ -12,7 +12,7 @@ Este é um projeto de buggy controlado remotamente utilizando um Arduino e diver
 
 Este projeto utiliza uma biblioteca ultrassônica personalizada desenvolvida por Elismar Silva, que permite medições precisas de distâncias usando um sensor ultrassônico. A biblioteca foi criada especialmente para este projeto e facilita a integração do sensor aos sistemas de controle do buggy.
 
-A biblioteca ultrassônica pode ser encontrada no repositório [ultrassonico-arduino](https://github.com/Olamundoio/ultrassonico-arduino) 
+A biblioteca ultrassônica pode ser encontrada no repositório [https://github.com/ElismarSilva/SensorUltrasonico) 
 
 ### Funcionalidades
 
@@ -53,7 +53,7 @@ Este projeto inclui o arquivo .aia do projeto do Buggy desenvolvido no App Inven
 
 Você pode baixar o arquivo .aia diretamente clicando no link abaixo:
 
-- Arquivo do aplicativo do BUGGY para controlar o BUGGY [Baixar Arquivo .aia](Buggy2.aia)
+- Arquivo do aplicativo para controle do BUGGY [Baixar Arquivo .aia](Buggy2.aia)
 
 1. Baixe o arquivo .aia para o seu computador.
 2. Abra o App Inventor (https://appinventor.mit.edu/) em seu navegador.
