@@ -1,44 +1,31 @@
-# Buggy Controlado por Arduino
+# Projeto do Buggy App Inventor
 
-Este é um projeto de buggy controlado remotamente utilizando um Arduino e diversos componentes eletrônicos. O projeto permite controlar a direção, velocidade, faróis e buzina do buggy por meio de comandos enviados via comunicação serial.
+Este repositório contém o arquivo .aia do projeto do Buggy criado no App Inventor. O arquivo .aia contém todas as informações e elementos necessários para recriar o aplicativo Buggy.
 
-## Autor e Biblioteca Ultrassônica
+## Como Baixar o Arquivo .aia
 
-Este projeto utiliza uma biblioteca ultrassônica personalizada desenvolvida por Elismar Silva, que permite medições precisas de distâncias usando um sensor ultrassônico. A biblioteca foi criada especialmente para este projeto e facilita a integração do sensor aos sistemas de controle do buggy.
+Você pode baixar o arquivo .aia diretamente clicando no link abaixo:
 
-A biblioteca ultrassônica pode ser encontrada no repositório [https://github.com/ElismarSilva/SensorUltrasonico).
+- [Baixar Arquivo .aia](Markdown )
 
-## Funcionalidades
+## Como Usar o Arquivo .aia
 
-- Controle de direção: Você pode girar o buggy para a esquerda, centro ou direita.
-- Controle de movimento: O buggy pode se mover para frente e para trás.
-- Faróis: É possível ligar e desligar os faróis do buggy.
-- Buzina: Acione a buzina para emitir um som.
+1. Baixe o arquivo .aia para o seu computador.
+2. Abra o App Inventor (https://appinventor.mit.edu/) em seu navegador.
+3. Faça login em sua conta no App Inventor ou crie uma nova conta, se necessário.
+4. No App Inventor, vá para a seção "Meus Projetos".
+5. Clique em "Importar Projeto (.aia) do meu computador".
+6. Selecione o arquivo .aia que você baixou anteriormente.
+7. O projeto do Buggy será importado para o App Inventor.
+8. Você pode visualizar e editar o projeto conforme necessário.
 
-## Componentes Utilizados
+## Observações
 
-- Sensor Ultrassônico: Utilizado para medir a distância de obstáculos.
-- Servos Motores: Controlam a direção e movimento do buggy.
-- LEDs: Indicam o estado dos faróis.
-- Buzzer: Utilizado para emitir o som da buzina.
-- Arduino: Controla todos os componentes e executa os comandos.
-
-## Configuração
-
-1. Conecte os componentes de acordo com o esquema de pinagem.
-2. Carregue o código do projeto no Arduino.
-3. Abra o monitor serial para enviar comandos.
-
-## Comandos
-
-- 'F': Move o buggy para frente.
-- 'T': Move o buggy para trás.
-- 'E': Gira a direção do buggy para a esquerda.
-- 'D': Gira a direção do buggy para a direita.
-- 'C': Centraliza a direção do buggy.
-- 'B': Aciona a buzina.
-- 'L': Liga/desliga os faróis.
+- Este projeto foi criado para fins educacionais e de aprendizado.
+- Certifique-se de verificar os requisitos e configurações necessárias no App Inventor para garantir um bom funcionamento do aplicativo.
 
 ## Créditos
 
 Autor: Elismar Silva
+
+
