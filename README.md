@@ -6,7 +6,7 @@ Este é um projeto de buggy controlado remotamente utilizando um Arduino e diver
 
 Este projeto utiliza uma biblioteca ultrassônica personalizada desenvolvida por Elismar Silva, que permite medições precisas de distâncias usando um sensor ultrassônico. A biblioteca foi criada especialmente para este projeto e facilita a integração do sensor aos sistemas de controle do buggy.
 
-A biblioteca ultrassônica pode ser encontrada no repositório [ultrassonico-arduino](https://github.com/Olamundoio/ultrassonico-arduino) e está sob a licença [Licença XYZ](https://github.com/Olamundoio/ultrassonico-arduino/blob/main/LICENSE).
+A biblioteca ultrassônica pode ser encontrada no repositório [https://github.com/ElismarSilva/SensorUltrasonico).
 
 ## Funcionalidades
 
